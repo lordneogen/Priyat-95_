@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8f7159758885fe6409fe08f7e764832f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lensFlareShader: {fileID: 4800000, guid: 76a40b48dd252dc4b8da1a4dc896d6c7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
